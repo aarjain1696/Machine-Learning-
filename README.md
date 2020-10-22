@@ -2,6 +2,10 @@
 
 Contents:
   - Decision Tree
+    - Decision Tree Model (Sklearn)
+    - Model Optimiation
+      - Modes Leaved: Using For loop iteration -> PLot the curve b/t Accuracy and Node leaves
+      - Pruning: CCP Alpha values 
   - Random Forest
   - Exgboost
   - Feature Engineering
