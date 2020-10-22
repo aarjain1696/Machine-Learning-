@@ -8,6 +8,14 @@ Contents:
       - Pruning: CCP Alpha values 
   - Random Forest
   - Exgboost
+    - Statistical Analysis
+    - Feature Engineering
+    - Xgboost Model (sklearn)
+    - Paramter Optimization
+      - Random Search CV
+      - Best Estimator - Model Paramters
+    - Model Performance
+      - 10 Fold Corss Validation
   - Feature Engineering
     - Dimensionality Reduction - PCA - Pricipal Component Analysis
     - Get Dummies
